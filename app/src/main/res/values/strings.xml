@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CameraGalleryPermission</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="openGallery">openGallery</string>
+    <string name="nextPage">nextPage</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Camera">Camera</string>
+    <string name="btnBack">btnBack</string>
+</resources>
